@@ -1,8 +1,6 @@
 # macOS OpenCore Hackintosh EFI 🍏🍏🍏
 
-<img width="2082" height="1152" alt="image" src="https://github.com/user-attachments/assets/958798c1-d21d-48f9-a46f-c598b8441269" />
-
-Voilá, now you can use macOS on non Apple hardware! So, instead of buy an 700$ bucks Mac, just follow this steps to install it on your old PC.
+## Voilá, now you can use macOS on non Apple hardware! So, instead of buy an 700$ bucks Mac, just follow this steps to install it on your old PC.
 
 <img width="2082" height="1152" alt="image" src="https://github.com/user-attachments/assets/9c4974b7-161c-4434-a4a4-18fb6790eba6" />
 (_Credits: the screenshots are'nt mine_)
