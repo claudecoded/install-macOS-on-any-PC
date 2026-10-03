@@ -93,3 +93,6 @@ Before using the `config.plist`, you **MUST** generate your own unique serial nu
 ## 📄 Credits & Acknowledgments
 * [Acidanthera](https://github.com) for developing OpenCore, Lilu, VirtualSMC, and most essential kexts.
 * [Dortania](https://github.io) for the ultimate OpenCore installation guide.
+
+<img width="1380" height="752" alt="image" src="https://github.com/user-attachments/assets/a4bbc31b-907a-4620-a716-aeadd4df9beb" />
+
