@@ -1,10 +1,11 @@
-# macOS OpenCore Hackintosh EFI
+# macOS OpenCore Hackintosh EFI 🍏🍏🍏
 
-This repository contains the functional OpenCore EFI configuration required to run **macOS** on non-Apple hardware.
+<img width="2082" height="1152" alt="image" src="https://github.com/user-attachments/assets/958798c1-d21d-48f9-a46f-c598b8441269" />
 
-> [!WARNING]
-> Do not clone this repository and use it blindly. Hackintosh configurations are highly hardware-specific. Use this as a reference guide alongside the official [Dortania OpenCore Install Guide](https://github.io).
+Voilá, now you can use macOS on non Apple hardware! So, instead of buy an 700$ bucks Mac, just follow this steps to install it on your old PC.
 
+<img width="2082" height="1152" alt="image" src="https://github.com/user-attachments/assets/9c4974b7-161c-4434-a4a4-18fb6790eba6" />
+(_Credits: the screenshots are'nt mine_)
 ---
 
 ## 💻 Hardware Specifications
@@ -51,13 +52,6 @@ EFI/
     ├── Kexts/
     └── config.plist
 ```
-
-### 🧩 Included Kexts
-* [Lilu.kext](https://github.com) — Arbitrary kext patcher (Required).
-* [VirtualSMC.kext](https://github.com) — Advanced SMC emulation (Required).
-* [WhateverGreen.kext](https://github.com) — Graphics patches (Required).
-* [AppleALC.kext](https://github.com) — Native macOS HD audio patching.
-
 ---
 
 ## 🚀 Installation & Setup
@@ -87,6 +81,18 @@ Before using the `config.plist`, you **MUST** generate your own unique serial nu
    * `MLB`
    * `SystemUUID`
    * `ROM`
+
+---
+
+OBS.: You can see an screen like this, but dont worry it's normal.
+
+<img width="715" height="195" alt="image" src="https://github.com/user-attachments/assets/33f44d5b-c90f-4720-8142-2fea2fc4ac17" />
+
+### 🧩 Included Kexts
+* [Lilu.kext](https://github.com) — Arbitrary kext patcher (Required).
+* [VirtualSMC.kext](https://github.com) — Advanced SMC emulation (Required).
+* [WhateverGreen.kext](https://github.com) — Graphics patches (Required).
+* [AppleALC.kext](https://github.com) — Native macOS HD audio patching.
 
 ---
 
